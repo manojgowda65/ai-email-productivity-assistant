@@ -1,0 +1,11 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+flask
+flask-cors
+python-dotenv
+beautifulsoup4
+flask
+flask-cors
+python-dotenv
+beautifulsoup4
